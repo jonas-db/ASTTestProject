@@ -1,0 +1,19 @@
+
+ósrc/main/scala/Main.scalaLobject Main extends App {
+    val z = new SomeCaseClass(1)
+    z.toString
+}
+*?
+_empty_.Main.
+ *MainZ_empty_.Main.rz_empty_.€*U
+_empty_.Main.z(). €*zZ"b_empty_.SomeCaseClass#rz_empty_.Main.€*M
+_empty_.Main.z. €*zZ_empty_.SomeCaseClass#rz_empty_.Main.€2
+ 
+scala.App#2$
+ _empty_.SomeCaseClass#22
+ $_empty_.SomeCaseClass#`<init>`(Int).2
+ 	_empty_.Main.z().2
+ _empty_.Main.z().2*
+ java.lang.Object#toString().2
+ _empty_.Main.2&
+ java.lang.Object#`<init>`().P

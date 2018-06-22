@@ -1,0 +1,3 @@
+class InheritanceTest extends ParentClass {
+
+}

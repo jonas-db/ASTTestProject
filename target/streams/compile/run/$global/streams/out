@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/phd/ASTExplorer/testproject/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/scalameta_2.12/jars/scalameta_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/common_2.12/jars/common_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/semanticdb3_2.12/jars/semanticdb3_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.thesamet.scalapb/scalapb-runtime_2.12/jars/scalapb-runtime_2.12-0.7.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.thesamet.scalapb/lenses_2.12/jars/lenses_2.12-0.7.0-test2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.lihaoyi/fastparse_2.12/jars/fastparse_2.12-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.lihaoyi/fastparse-utils_2.12/jars/fastparse-utils_2.12-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.lihaoyi/sourcecode_2.12/bundles/sourcecode_2.12-0.1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-3.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/dialects_2.12/jars/dialects_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/parsers_2.12/jars/parsers_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/inputs_2.12/jars/inputs_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/io_2.12/jars/io_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/tokens_2.12/jars/tokens_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/tokenizers_2.12/jars/tokenizers_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/trees_2.12/jars/trees_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/quasiquotes_2.12/jars/quasiquotes_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/transversers_2.12/jars/transversers_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/jonas/.ivy2/cache/org.scalameta/semanticdb_2.12/jars/semanticdb_2.12-4.0.0-M3.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

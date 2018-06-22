@@ -1,0 +1,26 @@
+
+¿ src/main/scala/ParentClass.scala'class ParentClass(val i: Int = 2) {
+
+}
+*l
+%_empty_.ParentClass#`<init>`(Int).(i) €*iZ
+scala.Int#rz"_empty_.ParentClass#`<init>`(Int).€*T
+_empty_.ParentClass.
+ *ParentClassZ_empty_.ParentClass.rz_empty_.€*§
+_empty_.ParentClass#*ParentClassZo
+Zkscala.AnyRef#_empty_.ParentClass#i()._empty_.ParentClass#i."_empty_.ParentClass#`<init>`(Int).rz_empty_.€*W
+_empty_.ParentClass#i(). €*iZb
+scala.Int#rz_empty_.ParentClass#€*±
+)_empty_.ParentClass.`<init>$default$1`().*<init>$default$1ZSbOMBI
+
+scala.Int#5
+3/-scala.annotation.unchecked.uncheckedVariance#rz_empty_.ParentClass.€*O
+_empty_.ParentClass#i. €*iZ
+scala.Int#rz_empty_.ParentClass#€*™
+"_empty_.ParentClass#`<init>`(Int). €@*<init>ZIbE'
+%_empty_.ParentClass#`<init>`(Int).(i)_empty_.ParentClass#rz_empty_.ParentClass#€2
+ _empty_.ParentClass#2,
+ "_empty_.ParentClass#`<init>`(Int).2
+ 
+scala.Int#2"
+ _empty_.ParentClass#i().P

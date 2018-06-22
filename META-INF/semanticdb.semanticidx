@@ -1,0 +1,12 @@
+
+´
+_empty_._empty_.SomeCaseClass#_empty_.CaseClassWithTypeParam#_empty_.Main._empty_.InheritanceTest#_empty_.ParentClass#!_empty_.InheritanceTestWithParam#_empty_.Test#
+
+_root_._empty_._
+!_empty_.InheritanceTestWithParam#:./src/main/scala/InheritanceTestWithParam.scala.semanticdb@
+_empty_.Test#/./src/main/scala/SomeCaseClass.scala.semanticdbE
+_empty_.ParentClass#-./src/main/scala/ParentClass.scala.semanticdbM
+_empty_.InheritanceTest#1./src/main/scala/InheritanceTest.scala.semanticdb7
+_empty_.Main.&./src/main/scala/Main.scala.semanticdbR
+_empty_.CaseClassWithTypeParam#/./src/main/scala/SomeCaseClass.scala.semanticdbI
+_empty_.SomeCaseClass#/./src/main/scala/SomeCaseClass.scala.semanticdb
